@@ -1,7 +1,7 @@
 ﻿{
   "RegisterIDTxnFee": 1000000,
   "RegisterIDReplaceTxPool": true,
-  "BeneficiaryAddr": "NKNCUQrBu7jEsrSmLcnEE5q3wTjPhWdZxP4z",
+  "BeneficiaryAddr": "xxxxxx",
   "SeedList": [
     "http://mainnet-seed-0001.nkn.org:30003",
     "http://mainnet-seed-0002.nkn.org:30003",
